@@ -1,5 +1,5 @@
 -- Original script by akenial
--- Made better with the help of Claude AI by nezur
+-- Made better with the help of ai by nezur
 -- This script also works on normal players in games aswell, its mainly for Pandi's Aim Trainer
 
 local RunService = game:GetService("RunService")
